@@ -12,7 +12,7 @@
     "pools": [
         {
             "url": "pool.minemonero.pro:5555",
-            "user": "",
+            "user": "152uqwcup67LjzXvcpyqKrFaDk6YWudt49",
             "pass": "x",
             "keepalive": true,
             "nicehash": false
